@@ -1,0 +1,26 @@
+<annotation>
+	<folder>_rgb</folder>
+	<filename>Town02_002220.png</filename>
+	<path>/home/daniel/CARLA_0.9.5/PythonAPI/examples/Dataset/Town02_40_vehicles/_rgb/002220.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>189</ymin>
+			<xmax>326</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

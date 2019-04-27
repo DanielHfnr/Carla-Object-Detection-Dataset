@@ -1,0 +1,26 @@
+<annotation>
+	<folder>_rgb</folder>
+	<filename>Town02_001440.png</filename>
+	<path>/home/daniel/CARLA_0.9.5/PythonAPI/examples/Dataset/Town02_40_vehicles/_rgb/001440.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>180</ymin>
+			<xmax>369</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

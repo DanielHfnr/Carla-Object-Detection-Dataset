@@ -1,0 +1,14 @@
+<annotation>
+	<folder>_rgb</folder>
+	<filename>Town01_002460.png</filename>
+	<path>/home/daniel/CARLA_0.9.5/PythonAPI/examples/Dataset/Town01_40_vehicles/_rgb/002460.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
