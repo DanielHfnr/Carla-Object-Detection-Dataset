@@ -14,5 +14,5 @@ Available classes are:
 
 Example image:
 
-![alt text](https://github.com/DanielHfnr/Carla-Object-Detection-Dataset/blob/master/test/Town01_011940.png "Example Image from Dataset")
+![example image](https://github.com/DanielHfnr/Carla-Object-Detection-Dataset/blob/master/test/Town01_011940.png "Example Image from Dataset")
 
