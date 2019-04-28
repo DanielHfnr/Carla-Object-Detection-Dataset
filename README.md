@@ -6,7 +6,7 @@ Every image comes with an associated label .xml file in the pascal VOC format. T
 
 Available classes are: 
 
-* Vehicle
+* Vehicle (Car, Truck)
 * Bike
 * Motobike
 * Traffic light
