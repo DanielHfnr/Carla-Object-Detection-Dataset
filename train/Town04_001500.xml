@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>traffi_sign</name>
+		<name>traffic_sign</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
